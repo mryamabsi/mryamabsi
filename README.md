@@ -148,8 +148,7 @@ A scalable storefront interface with reusable UI components, API integration and
 
 [![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mryamabsi\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=github\&include_all_commits=true\&count_private=true)](https://github.com/mryamabsi)
 
-[![Maryam's GitHub Streak](https://streak-stats.demolab.com?user=mryamabsi\&theme=github-dark-blue\&hide_border=true)](https://github.com/mryamabsi)
-
+[![Maryam's GitHub Stats](https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=mryamabsi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/mryamabsi)
 > 🔒 Private repository activity is included anonymously in my GitHub contribution graph when private contributions are enabled.
 
 ---
