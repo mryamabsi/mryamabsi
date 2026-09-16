@@ -43,86 +43,72 @@ My day-to-day work revolves around:
 > 🔒 Most of my professional projects are private, so their source code isn't publicly available.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=sass" height="42" alt="Sass" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="42" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs" height="45" alt="Frontend Technologies" />
 </p>
 
 ### UI & Styling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="42" alt="Material UI" />
-  <img src="https://skillicons.dev/icons?i=storybook" height="42" alt="Storybook" />
-  <img src="https://skillicons.dev/icons?i=swiper" height="42" alt="Swiper" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,storybook" height="45" alt="UI and Styling Technologies" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="28" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" height="25" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" height="25" alt="Swiper" />
 </p>
 
-### State & Data
+### State & Data Management
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux" height="42" alt="Redux Toolkit" />
-  <img src="https://skillicons.dev/icons?i=axios" height="42" alt="Axios" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="28" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" height="28" alt="Zustand" />
+  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="25" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" height="25" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" height="25" alt="Axios" />
 </p>
 
 ### Forms & Validation
 
 <p>
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" height="28" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" height="28" alt="Zod" />
-  <img src="https://img.shields.io/badge/Yup-4B32C3?style=for-the-badge&logo=yup&logoColor=white" height="28" alt="Yup" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" height="25" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" height="25" alt="Zod" />
+  <img src="https://img.shields.io/badge/Yup-4B32C3?style=flat-square&logo=yup&logoColor=white" height="25" alt="Yup" />
 </p>
 
-### UI & Visualization
+### UI Components & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Tiptap-000000?style=for-the-badge&logo=tiptap&logoColor=white" height="28" alt="Tiptap" />
-  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=react&logoColor=white" height="28" alt="Recharts" />
-  <img src="https://skillicons.dev/icons?i=framer" height="42" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white" height="28" alt="Motion" />
-  <img src="https://skillicons.dev/icons?i=react" height="42" alt="React Icons" />
+  <img src="https://img.shields.io/badge/Tiptap-000000?style=flat-square&logo=tiptap&logoColor=white" height="25" alt="Tiptap" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white" height="25" alt="Recharts" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" height="25" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Motion-000000?style=flat-square&logo=framer&logoColor=white" height="25" alt="Motion" />
+  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" alt="React Icons" />
 </p>
 
-### Testing & Quality
+### Testing & Code Quality
 
 <p>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="28" alt="Vitest" />
-  <img src="https://skillicons.dev/icons?i=playwright" height="42" alt="Playwright" />
-  <img src="https://skillicons.dev/icons?i=eslint" height="42" alt="ESLint" />
-  <img src="https://skillicons.dev/icons?i=prettier" height="42" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" height="25" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="25" alt="Playwright" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" height="25" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" height="25" alt="Prettier" />
 </p>
 
-### Tools
+### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=swagger" height="42" alt="Swagger" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="45" alt="Development Tools" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="REST API" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="28" alt="OpenAPI" />
-</p> 
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" height="25" alt="Swagger" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" height="25" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" height="25" alt="REST API" />
+</p>
 
 ## 💼 Experience
 
