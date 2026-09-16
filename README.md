@@ -204,13 +204,7 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 
 ---
 
----
 
----
-
----
-
----
 
 ## 📈 GitHub Stats
 
@@ -224,7 +218,7 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 </p>
 
 ---
----
+
 
 ## 🎯 Currently
 
