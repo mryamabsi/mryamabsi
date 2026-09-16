@@ -205,6 +205,8 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 
 ---
 
+---
+
 ## 📈 GitHub
 
 <div align="center">
@@ -216,20 +218,6 @@ Scalable storefront focused on reusable components, responsive UI and API integr
       alt="Maryam's GitHub Stats"
     />
   </a>
-
-  <a href="https://github.com/mryamabsi">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-      height="180"
-      alt="Maryam's Top Languages"
-    />
-  </a>
-
-</div>
-
-<br />
-
-<div align="center">
 
   <a href="https://github.com/mryamabsi">
     <img
