@@ -203,29 +203,55 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 
 ---
 
+---
+
 ## 📈 GitHub
 
 <div align="center">
 
-<a href="https://github.com/mryamabsi">
+  <a href="https://github.com/mryamabsi">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+      height="180"
+      alt="Maryam's GitHub Stats"
+    />
+  </a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-
-</a>
-
-<a href="https://github.com/mryamabsi">
-
-<img height="170" src="https://streak-stats.demolab.com?user=mryamabsi&theme=github-dark-blue&hide_border=true" />
-
-</a>
+  <a href="https://github.com/mryamabsi">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+      height="180"
+      alt="Maryam's Top Languages"
+    />
+  </a>
 
 </div>
 
-<br>
+<br />
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mryamabsi&theme=github-compact&hide_border=true&area=true" />
+  <a href="https://github.com/mryamabsi">
+    <img
+      src="https://streak-stats.demolab.com?user=mryamabsi&theme=github-dark-blue&hide_border=true"
+      height="180"
+      alt="Maryam's GitHub Streak"
+    />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <a href="https://github.com/mryamabsi">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=mryamabsi&theme=github-compact&hide_border=true&area=true&radius=8"
+      width="95%"
+      alt="Maryam's GitHub Activity Graph"
+    />
+  </a>
 
 </div>
 
