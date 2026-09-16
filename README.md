@@ -22,16 +22,16 @@ Building responsive, scalable, and user-friendly web applications.
 
 ## About Me
 
-I'm a Front-End Developer passionate about building clean, maintainable, and scalable web applications.
+I'm a Front-End Developer experienced in building responsive and scalable web applications using React, Next.js, TypeScript, and Tailwind CSS.
 
-I enjoy turning Figma designs into modern user interfaces, building reusable components, integrating APIs, and solving real-world frontend challenges.
+I enjoy turning Figma designs into modern user interfaces, building reusable components, integrating REST APIs, and solving real-world frontend challenges.
 
 - 💻 Front-End Developer at Nova
-- ⚛️ Working with React, Next.js, and TypeScript
-- 🎨 Building responsive interfaces with Tailwind CSS
-- 🔌 Integrating REST APIs and authentication
-- 🧩 Focused on reusable components and clean architecture
-- 🚀 Interested in performance, SEO, and great user experiences
+- ⚛️ React, Next.js & TypeScript
+- 🎨 Responsive UI with Tailwind CSS
+- 🔌 REST APIs & Authentication
+- 🧩 Reusable Components & Clean Architecture
+- 🚀 Performance, SEO & User Experience
 
 ---
 
@@ -49,20 +49,21 @@ I enjoy turning Figma designs into modern user interfaces, building reusable com
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Styling technologies"/>
 </p>
 
-### State Management & Data
-
 <p>
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook"/>
 </p>
 
-- TanStack Query
-- Zustand
-- Redux Toolkit
-- Context API
-- Axios
-- REST APIs
+### State Management
 
-### Tools
+<p>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+</p>
+
+### Tools & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools"/>
@@ -70,26 +71,33 @@ I enjoy turning Figma designs into modern user interfaces, building reusable com
 
 - Git & GitHub
 - Jira
-- Postman
-- Swagger
+- Postman & Swagger
 - ESLint & Prettier
-- Storybook
-- shadcn/ui
-- Material UI
+- Axios
+- React Hook Form
+- Zod & Yup
 
 ---
 
-## What I Work With
+## Featured Projects
 
-| Area | Technologies |
-|---|---|
-| UI Development | React, Next.js, TypeScript |
-| Architecture | Component-Based, Feature-Based, Modular |
-| State Management | Zustand, Redux Toolkit, TanStack Query |
-| Forms | React Hook Form, Zod, Yup |
-| Authentication | JWT, REST APIs, Axios |
-| Rendering | SSR, SSG, ISR |
-| Performance | Code Splitting, Lazy Loading, Image Optimization |
+### 🛍️ Gold Store
+
+An e-commerce project.
+
+### 👕 Clothes Store
+
+A clothing store project.
+
+### 📊 Dashboard
+
+A dashboard project.
+
+### 🛒 Store
+
+A store project.
+
+> More details and repository links will be added as projects are documented.
 
 ---
 
@@ -97,19 +105,21 @@ I enjoy turning Figma designs into modern user interfaces, building reusable com
 
 ### Front-End Developer — Nova
 
-**July 2025 – Present**
+**July 2025 – Present · Shiraz, Iran**
 
-- Building responsive web applications with React, Next.js, TypeScript, and Tailwind CSS.
-- Developing reusable components and integrating REST APIs.
-- Implementing authentication and working on admin dashboards, e-commerce, and user profile applications.
-- Collaborating with cross-functional teams to deliver maintainable solutions.
+- Built responsive web applications with React, Next.js, TypeScript, and Tailwind CSS.
+- Developed reusable components and integrated REST APIs.
+- Implemented authentication.
+- Contributed to admin dashboard, e-commerce, and user profile applications.
+- Collaborated with cross-functional teams.
 
 ### Front-End Developer — Nexo
 
-**March 2025 – June 2025**
+**March 2025 – June 2025 · Shiraz, Iran**
 
-- Built responsive frontend interfaces and implemented new features.
-- Fixed bugs and integrated REST APIs.
+- Built responsive frontend interfaces.
+- Fixed bugs and implemented new features.
+- Integrated REST APIs.
 - Worked with React, Next.js, TypeScript, and Tailwind CSS.
 - Followed component-based architecture and clean code practices.
 
@@ -139,6 +149,14 @@ I enjoy turning Figma designs into modern user interfaces, building reusable com
 
 <a href="https://linkedin.com/in/mryamabsi">
   <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Abbasi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://instagram.com/mryamabsi">
+  <img src="https://img.shields.io/badge/Instagram-mryamabsi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://t.me/didb2i">
+  <img src="https://img.shields.io/badge/Telegram-didb2i-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
 </div>
