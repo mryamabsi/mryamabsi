@@ -65,12 +65,27 @@ My day-to-day work revolves around:
 ### State & Data Management
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="25" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" height="25" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" height="25" alt="Axios" />
+  <img
+    src="https://skillicons.dev/icons?i=redux"
+    height="45"
+    alt="Redux Toolkit"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=react"
+    height="45"
+    alt="TanStack Query"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=zustand"
+    height="45"
+    alt="Zustand"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=axios"
+    height="45"
+    alt="Axios"
+  />
 </p>
-
 ### Forms & Validation
 
 <p>
