@@ -4,7 +4,7 @@
 
 ### Front-End Developer · React · Next.js · TypeScript
 
-Building clean, responsive, and scalable web experiences.
+Building modern, responsive, and scalable web experiences.
 
 <p>
   <a href="https://github.com/mryamabsi">
@@ -21,25 +21,20 @@ Building clean, responsive, and scalable web experiences.
 
 ## 👩🏻‍💻 About Me
 
-I'm a **Front-End Developer** focused on building modern, responsive, and maintainable web applications.
+I'm a **Front-End Developer** passionate about building clean, responsive, and user-friendly web applications.
 
-I work mainly with **React, Next.js, TypeScript, and Tailwind CSS**, with a strong focus on reusable components, clean architecture, API integration, performance, and user experience.
-
-```text
-⚛️ React & Next.js
-🟦 TypeScript
-🎨 Tailwind CSS
-🔌 REST APIs
-🧩 Reusable Components
-🚀 Performance & SEO
-```
+I mainly work with **React, Next.js, TypeScript, and Tailwind CSS**, with a focus on reusable components, scalable UI architecture, API integration, performance, and great user experience.
 
 * 💻 Front-End Developer at **Nova**
-* 🏗️ Building scalable React & Next.js applications
-* 🎨 Turning Figma designs into responsive interfaces
-* 🔌 Working with REST APIs & authentication
-* 🧩 Building reusable component systems
-* 🌱 Always learning and improving
+* ⚛️ React & Next.js
+* 🟦 TypeScript & JavaScript
+* 🎨 Tailwind CSS & modern UI systems
+* 🔌 REST API integration
+* 🧩 Reusable & scalable components
+* 📝 Forms & schema validation
+* 📊 Interactive dashboards & data visualization
+* 🧪 Testing with Vitest & Playwright
+* 📱 Responsive & accessible interfaces
 
 ---
 
@@ -48,41 +43,73 @@ I work mainly with **React, Next.js, TypeScript, and Tailwind CSS**, with a stro
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs" alt="Frontend technologies"/>
 </p>
+
+**HTML5 · CSS3 · Sass · JavaScript · TypeScript · React · Next.js**
 
 ### Styling & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Styling"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Styling technologies"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook"/>
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" alt="Swiper"/>
 </p>
 
-### State & Data
+**Tailwind CSS · Bootstrap · shadcn/ui · Material UI · Storybook · Swiper**
+
+### State Management & Data Fetching
 
 <p>
   <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
   <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios"/>
 </p>
+
+**TanStack Query · Zustand · Axios · REST APIs**
+
+### Forms & Validation
+
+<p>
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" alt="Zod"/>
+</p>
+
+**React Hook Form · Zod · Yup**
+
+### Rich UI & Content
+
+<p>
+  <img src="https://img.shields.io/badge/Tiptap-000000?style=flat-square&logo=tiptap&logoColor=white" alt="Tiptap"/>
+  <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=recharts&logoColor=white" alt="Recharts"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
+</p>
+
+**Tiptap · Recharts · Framer Motion · Motion · React Icons**
+
+### Testing & Code Quality
+
+<p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier"/>
+</p>
+
+**Vitest · Playwright · ESLint · Prettier**
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Development tools"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint"/>
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios"/>
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" alt="Zod"/>
-</p>
+**Git · GitHub · VS Code · Figma · Postman · Swagger/OpenAPI**
 
 ---
 
@@ -90,60 +117,127 @@ I work mainly with **React, Next.js, TypeScript, and Tailwind CSS**, with a stro
 
 ### 🛍️ Gold Store
 
-Modern e-commerce application focused on a smooth shopping experience.
+A modern e-commerce interface focused on a smooth and responsive shopping experience.
 
-**Tech:** React · Next.js · TypeScript · Tailwind CSS
+**Highlights**
+
+* 🛒 Product-focused shopping experience
+* 📱 Fully responsive UI
+* 🔍 Dynamic product interfaces
+* 🧩 Reusable UI components
+* ⚡ Optimized client-side data handling
+
+**Tech**
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `TanStack Query` · `Zustand`
 
 ---
 
 ### 👕 Clothes Store
 
-Responsive clothing store with reusable UI components and product-focused interfaces.
+A modern clothing store interface designed with reusable components and responsive layouts.
 
-**Tech:** React · TypeScript · Tailwind CSS · REST API
+**Highlights**
+
+* 👕 Product listing & product details
+* 🎨 Responsive and modern UI
+* 🧩 Reusable components
+* 🔄 API-driven data
+* 📱 Mobile-friendly experience
+
+**Tech**
+
+`React` · `TypeScript` · `Tailwind CSS` · `Axios` · `Zustand`
 
 ---
 
 ### 📊 Dashboard
 
-Modern admin dashboard for managing data through reusable components and responsive layouts.
+A responsive dashboard interface focused on data visualization and reusable UI components.
 
-**Tech:** Next.js · TypeScript · Tailwind CSS · TanStack Query
+**Highlights**
+
+* 📈 Interactive charts
+* 📊 Data visualization
+* 🧩 Reusable dashboard components
+* 📱 Responsive layouts
+* 🎨 Clean and consistent UI
+
+**Tech**
+
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Recharts` · `TanStack Query`
 
 ---
 
 ### 🛒 Store
 
-Responsive online store with reusable components, API integration, and modern UI patterns.
+A responsive store application built with modern React architecture and reusable UI patterns.
 
-**Tech:** React · TypeScript · REST API · Zustand
+**Highlights**
 
-> 🚧 Project repositories and live demos are being documented.
+* 🛍️ Modern shopping interface
+* 📱 Responsive design
+* 🔄 API integration
+* 🧩 Reusable components
+* ⚡ Client-side state management
+
+**Tech**
+
+`React` · `TypeScript` · `Tailwind CSS` · `Zustand` · `Axios`
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### Front-End Developer · Nova
 
 **July 2025 – Present · Shiraz, Iran**
 
-* Develop responsive web applications using **React, Next.js, and TypeScript**.
-* Build reusable and maintainable UI components.
-* Integrate REST APIs and implement authentication flows.
-* Contribute to e-commerce, dashboard, and user-profile applications.
-* Work with cross-functional teams to deliver production-ready features.
-* Focus on performance, responsive design, accessibility, and user experience.
+* Build responsive web applications using **React, Next.js, and TypeScript**.
+* Develop reusable and maintainable UI components.
+* Convert Figma designs into responsive web interfaces.
+* Integrate REST APIs into modern front-end applications.
+* Implement form handling and validation using **React Hook Form and Zod**.
+* Manage client-side and server-state using **Zustand and TanStack Query**.
+* Build dashboards, e-commerce interfaces, and user profile applications.
+* Develop interactive charts and data-driven interfaces.
+* Work with component-driven development using **Storybook**.
+* Write and maintain front-end tests using **Vitest and Playwright**.
+* Focus on responsive design, performance, accessibility, and user experience.
+* Collaborate with designers and other developers to deliver production-ready features.
 
 ---
 
-## 📊 GitHub
+## 📈 What I Care About
+
+```text
+🎨 Clean & consistent UI
+🧩 Reusable components
+📐 Scalable front-end architecture
+⚡ Performance
+📱 Responsive design
+♿ Accessibility
+🧪 Testing
+✨ Great user experience
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Maryam's GitHub Stats"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
+alt="Maryam's GitHub Stats"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Maryam's Top Languages"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+alt="Maryam's Top Languages"
+/>
 
 </div>
 
@@ -151,7 +245,10 @@ Responsive online store with reusable components, API integration, and modern UI
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mryamabsi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img
+src="https://streak-stats.demolab.com?user=mryamabsi&theme=github-dark-blue&hide_border=true"
+alt="Maryam's GitHub Streak"
+/>
 
 </div>
 
@@ -159,12 +256,17 @@ Responsive online store with reusable components, API integration, and modern UI
 
 ## 🌱 Currently
 
-```text
-🔭 Working on     → Modern React & Next.js applications
-🌱 Learning       → Advanced Next.js & Front-End Architecture
-🧩 Interested in  → Design Systems & Scalable UI
-⚡ Improving       → Performance, UX & Clean Code
-```
+<div align="center">
+
+|    | Currently                                    |
+| -- | -------------------------------------------- |
+| 🔭 | Building modern React & Next.js applications |
+| 🌱 | Improving Front-End Architecture             |
+| 🧩 | Exploring scalable Design Systems            |
+| ⚡  | Improving performance & UX                   |
+| 🧪 | Writing better tests                         |
+
+</div>
 
 ---
 
@@ -175,15 +277,15 @@ Responsive online store with reusable components, API integration, and modern UI
 <a href="https://github.com/mryamabsi">
   <img src="https://img.shields.io/badge/GitHub-mryamabsi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
+
 <a href="https://linkedin.com/in/mryamabsi">
   <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Abbasi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
+
 <a href="https://instagram.com/mryamabsi">
   <img src="https://img.shields.io/badge/Instagram-mryamabsi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-&nbsp;
+
 <a href="https://t.me/didb2i">
   <img src="https://img.shields.io/badge/Telegram-didb2i-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
@@ -194,6 +296,6 @@ Responsive online store with reusable components, API integration, and modern UI
 
 <div align="center">
 
-### ✨ Building with passion. Learning every day.
+### ✨ Building interfaces. Solving problems. Learning every day.
 
 </div>
