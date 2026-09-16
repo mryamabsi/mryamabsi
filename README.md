@@ -113,18 +113,6 @@ A store project.
 - Contributed to admin dashboard, e-commerce, and user profile applications.
 - Collaborated with cross-functional teams.
 
-### Front-End Developer — Nexo
-
-**March 2025 – June 2025 · Shiraz, Iran**
-
-- Built responsive frontend interfaces.
-- Fixed bugs and implemented new features.
-- Integrated REST APIs.
-- Worked with React, Next.js, TypeScript, and Tailwind CSS.
-- Followed component-based architecture and clean code practices.
-
----
-
 ## GitHub Stats
 
 <div align="center">
