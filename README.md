@@ -221,38 +221,11 @@ A responsive store application built with modern React architecture and reusable
 
 ## 📈 GitHub Activity
 
-<div align="center">
+[![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)](https://github.com/mryamabsi)
 
-<a href="https://github.com/mryamabsi">
+[![Maryam's GitHub Streak](https://streak-stats.demolab.com?user=mryamabsi&theme=github-dark-blue&hide_border=true)](https://github.com/mryamabsi)
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
-alt="Maryam's GitHub Stats"
-/>
-
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/mryamabsi">
-
-<img
-src="https://streak-stats.demolab.com?user=mryamabsi&theme=github-dark-blue&hide_border=true"
-alt="Maryam's GitHub Streak"
-/>
-
-</a>
-
-</div>
-
-> 💡 My GitHub contribution graph includes activity from my private repositories when private contributions are enabled in my GitHub profile settings.
-
----
-
+> 🔒 Private repository activity is included in my GitHub contribution graph and shown anonymously.
 ## 🌱 Currently
 
 <div align="center">
