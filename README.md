@@ -1,212 +1,251 @@
-<h1 align="center">Hi 👋, I'm Maryam Abbasi</h1>
+<div align="center">
 
-<h3 align="center">
-  Front-End Developer at Nova
-</h3>
+# Hey, I'm Maryam 👋
 
-<p align="center">
-  I build modern, responsive, and user-friendly web interfaces with React, Next.js, and TypeScript.
-</p>
+### Front-End Developer
 
-<p align="center">
+**React · Next.js · TypeScript · Modern UI**
+
+Building clean, responsive, and scalable web experiences.
+
+<p>
   <a href="https://linkedin.com/in/mryamabsi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/mryamabsi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="https://t.me/didb2i">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 ---
 
 ## 👩🏻‍💻 About Me
 
-- 💻 Front-End Developer at **Nova**
-- ⚛️ Specialized in **React, Next.js, and TypeScript**
-- 🎨 Interested in clean UI, responsive layouts, and great user experiences
-- 🧩 Experienced in building reusable and scalable components
-- 🧪 Familiar with testing, code quality, and modern development workflows
-- 🔒 Most of my professional projects are private
+I'm a **Front-End Developer at Nova**, focused on building modern web applications with a strong emphasis on **clean UI, reusable components, scalability, and user experience**.
+
+My day-to-day work revolves around:
+
+* ⚛️ React & Next.js
+* 🟦 TypeScript
+* 🎨 Modern UI systems & Tailwind CSS
+* 🧩 Reusable component architecture
+* 🔄 REST API integration
+* 📊 Data-driven dashboards
+* 📝 Form handling & validation
+* ⚡ Performance & accessibility
+* 🧪 Testing & code quality
+
+> 🔒 Most of my professional projects are private, so their source code isn't publicly available.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs" height="45" alt="HTML5, CSS3, Sass, JavaScript, TypeScript, React, Next.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs" />
 </p>
 
 ### UI & Styling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,storybook" height="45" alt="Tailwind CSS, Bootstrap, Material UI, Storybook" />
-  <img src="https://skillicons.dev/icons?i=swiper" height="45" alt="Swiper" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="28" alt="shadcn/ui" />
-</p>
+`shadcn/ui` · `Material UI` · `Storybook` · `Swiper`
 
-### State & Data Management
+### State & Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=redux,axios" height="45" alt="Redux Toolkit, Axios" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="28" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" height="28" alt="Zustand" />
-</p>
+`TanStack Query` · `Zustand` · `Redux Toolkit` · `Axios`
 
 ### Forms & Validation
 
-<p>
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" height="28" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" height="28" alt="Zod" />
-  <img src="https://img.shields.io/badge/Yup-4B32C3?style=for-the-badge&logo=yup&logoColor=white" height="28" alt="Yup" />
-</p>
+`React Hook Form` · `Zod` · `Yup`
 
-### UI Components & Visualization
+### UI & Visualization
 
-<p>
-  <img src="https://img.shields.io/badge/Tiptap-000000?style=for-the-badge&logo=tiptap&logoColor=white" height="28" alt="Tiptap" />
-  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=react&logoColor=white" height="28" alt="Recharts" />
-  <img src="https://skillicons.dev/icons?i=framer" height="45" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white" height="28" alt="Motion" />
-  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" alt="React Icons" />
-</p>
+`Tiptap` · `Recharts` · `Framer Motion` · `Motion` · `React Icons`
 
-### Testing & Code Quality
+### Testing & Quality
+
+`Vitest` · `Playwright` · `ESLint` · `Prettier`
+
+### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="28" alt="Vitest" />
-  <img src="https://skillicons.dev/icons?i=playwright" height="45" alt="Playwright" />
-  <img src="https://skillicons.dev/icons?i=eslint" height="45" alt="ESLint" />
-  <img src="https://skillicons.dev/icons?i=prettier" height="45" alt="Prettier" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
-### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="45" alt="Git, GitHub, VS Code, Figma, Postman" />
-  <img src="https://skillicons.dev/icons?i=swagger" height="45" alt="Swagger" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="28" alt="OpenAPI" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="REST API" />
-</p>
+`Swagger / OpenAPI`
 
 ---
 
 ## 💼 Experience
 
-### Front-End Developer — Nova
+### Front-End Developer · Nova
 
-**July 2025 – Present**  
-📍 Shiraz, Iran
+**Jul 2025 — Present · Shiraz, Iran**
 
-- Developing modern web applications using React, Next.js, and TypeScript
-- Building reusable and maintainable UI components
-- Implementing responsive designs based on UI/UX requirements
-- Working with state management and data-fetching tools
-- Improving code quality through testing and development best practices
+* Build responsive and scalable applications using **React, Next.js & TypeScript**
+* Develop reusable components and maintain consistent UI patterns
+* Transform Figma designs into production-ready interfaces
+* Integrate REST APIs and manage asynchronous data
+* Build complex forms with **React Hook Form, Zod & Yup**
+* Manage application state with **Zustand & TanStack Query**
+* Develop dashboards, e-commerce interfaces and user-focused applications
+* Build data visualizations with **Recharts**
+* Document reusable components with **Storybook**
+* Write automated tests using **Vitest & Playwright**
+* Improve performance, accessibility, responsiveness and overall UX
+* Collaborate with designers and developers to deliver maintainable products
 
 ---
 
 ## 🚀 Featured Projects
 
-> Most of my professional projects are private.  
-> The following projects represent the type of interfaces and applications I work on.
+> 🔐 Professional projects are private.
 
-### 🛍️ Gold Store
+<table>
+<tr>
+<td width="50%">
 
-A modern e-commerce interface for a gold store.
+### 🪙 Gold Store
 
-**Tech Stack:**  
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Zustand`
+**Private · E-commerce**
 
----
+Modern e-commerce interface focused on reusable UI, responsive layouts and API-driven product experiences.
 
-### 👕 Clothes Store
+**Stack**
 
-A responsive clothing e-commerce interface with product-focused UI.
+`Next.js` `TypeScript` `Tailwind`
+`TanStack Query` `Zustand`
 
-**Tech Stack:**  
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Swiper`
+</td>
 
----
+<td width="50%">
+
+### 👗 Clothes Store
+
+**Private · E-commerce**
+
+Responsive shopping interface with reusable product components, forms and modern UI patterns.
+
+**Stack**
+
+`Next.js` `TypeScript` `Tailwind`
+`React Hook Form` `Zod`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📊 Dashboard
 
-A modern dashboard interface with data visualization and reusable components.
+**Private · Admin Dashboard**
 
-**Tech Stack:**  
-`React` · `Next.js` · `TypeScript` · `Recharts` · `TanStack Query`
+Data-driven dashboard with reusable components, forms, charts and responsive layouts.
 
----
+**Stack**
 
-### 🛒 Store
+`Next.js` `TypeScript` `Recharts`
+`Zustand` `TanStack Query`
 
-A responsive store interface focused on usability, reusable components, and clean design.
+</td>
 
-**Tech Stack:**  
-`React` · `Next.js` · `TypeScript` · `Redux Toolkit` · `React Hook Form`
+<td width="50%">
 
----
+### 🛍️ Store
 
-## 📌 Currently
+**Private · E-commerce**
 
-- 🔭 Working as a Front-End Developer at **Nova**
-- 🌱 Improving my skills in advanced React and Next.js patterns
-- 🧪 Learning more about testing and scalable front-end architecture
-- 🎨 Exploring better UI/UX and component design practices
-- 💡 Building clean, accessible, and maintainable interfaces
+Scalable storefront focused on reusable components, responsive UI and API integration.
 
----
+**Stack**
 
-## 📈 GitHub Stats
+`Next.js` `TypeScript` `Tailwind`
+`Axios` `TanStack Query`
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="165"
-    alt="Maryam's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Maryam's Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mryamabsi&theme=tokyonight&hide_border=true"
-    alt="Maryam's GitHub Streak"
-  />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
+## 📈 GitHub
 
-<p align="left">
-  <a href="https://linkedin.com/in/mryamabsi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/mryamabsi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://t.me/didb2i" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/mryamabsi">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+
+</a>
+
+<a href="https://github.com/mryamabsi">
+
+<img height="170" src="https://streak-stats.demolab.com?user=mryamabsi&theme=github-dark-blue&hide_border=true" />
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mryamabsi&theme=github-compact&hide_border=true&area=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building interfaces, learning continuously, and turning ideas into experiences.</i>
-</p>
+## 🎯 Currently
+
+```text
+⚛️ React & Next.js
+🟦 TypeScript
+🧩 Component Architecture
+🎨 Modern UI Development
+⚡ Performance & Accessibility
+🧪 Testing & Code Quality
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mryamabsi">
+  <img src="https://img.shields.io/badge/LinkedIn-mryamabsi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/mryamabsi">
+  <img src="https://img.shields.io/badge/Instagram-mryamabsi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://t.me/didb2i">
+  <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building interfaces that are simple, scalable, and enjoyable to use.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mryamabsi&style=flat-square&color=blue" alt="Profile views" />
+
+</div>
