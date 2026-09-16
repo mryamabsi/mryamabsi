@@ -115,7 +115,12 @@ I mainly work with **React, Next.js, TypeScript, and Tailwind CSS**, with a focu
 
 ## 🚀 Featured Projects
 
+> 🔒 Most of my professional projects are private.
+> The projects below represent the type of applications and front-end systems I work on.
+
 ### 🛍️ Gold Store
+
+**Private · E-commerce Application**
 
 A modern e-commerce interface focused on a smooth and responsive shopping experience.
 
@@ -135,6 +140,8 @@ A modern e-commerce interface focused on a smooth and responsive shopping experi
 
 ### 👕 Clothes Store
 
+**Private · E-commerce Application**
+
 A modern clothing store interface designed with reusable components and responsive layouts.
 
 **Highlights**
@@ -153,6 +160,8 @@ A modern clothing store interface designed with reusable components and responsi
 
 ### 📊 Dashboard
 
+**Private · Admin Dashboard**
+
 A responsive dashboard interface focused on data visualization and reusable UI components.
 
 **Highlights**
@@ -170,6 +179,8 @@ A responsive dashboard interface focused on data visualization and reusable UI c
 ---
 
 ### 🛒 Store
+
+**Private · E-commerce Application**
 
 A responsive store application built with modern React architecture and reusable UI patterns.
 
@@ -208,36 +219,18 @@ A responsive store application built with modern React architecture and reusable
 
 ---
 
-## 📈 What I Care About
-
-```text
-🎨 Clean & consistent UI
-🧩 Reusable components
-📐 Scalable front-end architecture
-⚡ Performance
-📱 Responsive design
-♿ Accessibility
-🧪 Testing
-✨ Great user experience
-```
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
+<a href="https://github.com/mryamabsi">
+
 <img
-height="170"
 src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
 alt="Maryam's GitHub Stats"
 />
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-alt="Maryam's Top Languages"
-/>
+</a>
 
 </div>
 
@@ -245,12 +238,18 @@ alt="Maryam's Top Languages"
 
 <div align="center">
 
+<a href="https://github.com/mryamabsi">
+
 <img
 src="https://streak-stats.demolab.com?user=mryamabsi&theme=github-dark-blue&hide_border=true"
 alt="Maryam's GitHub Streak"
 />
 
+</a>
+
 </div>
+
+> 💡 My GitHub contribution graph includes activity from my private repositories when private contributions are enabled in my GitHub profile settings.
 
 ---
 
