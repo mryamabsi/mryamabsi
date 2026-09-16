@@ -110,6 +110,7 @@ My day-to-day work revolves around:
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" height="25" alt="OpenAPI" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" height="25" alt="REST API" />
 </p>
+  
 ## 💼 Experience
 
 ### Front-End Developer · Nova
