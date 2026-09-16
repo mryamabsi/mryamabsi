@@ -209,50 +209,98 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 
 ---
 
+---
+
 ## 📈 GitHub
 
 <div align="center">
 
-  <h3>GitHub Profile</h3>
+  <a href="https://github.com/mryamabsi">
+    <strong>GitHub Profile</strong>
+  </a>
 
-  <p>
-    <a href="https://github.com/mryamabsi">
-      <strong>@mryamabsi</strong>
-    </a>
-  </p>
+  <br />
 
-  <p>
-    Front-End Developer focused on building modern and scalable web experiences.
-  </p>
+  <sub>
+    Front-End Developer · React · Next.js · TypeScript
+  </sub>
 
 </div>
 
-### 🔎 GitHub Highlights
+<br />
 
-| Category | Details |
-|----------|---------|
-| 💻 Focus | Front-End Development |
-| ⚛️ Main Stack | React · Next.js · TypeScript |
-| 🎨 UI | Tailwind CSS · Sass · Bootstrap |
-| 🧩 Architecture | Reusable Components · Scalable UI |
-| 🧪 Quality | Vitest · Playwright · ESLint |
-| 📊 Projects | E-commerce · Dashboards · Web Applications |
-| 🔒 Work | Professional projects are private |
+<div align="center">
 
-### 🧭 What I Work On
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <strong>💻 Development</strong>
+        <br />
+        <sub>Front-End Focused</sub>
+      </td>
+      <td align="center" width="33%">
+        <strong>⚛️ Core Stack</strong>
+        <br />
+        <sub>React · Next.js</sub>
+      </td>
+      <td align="center" width="33%">
+        <strong>🟦 Language</strong>
+        <br />
+        <sub>TypeScript</sub>
+      </td>
+    </tr>
+  </table>
 
-- Building responsive and accessible user interfaces
-- Developing reusable React and Next.js components
-- Integrating REST APIs and managing application state
-- Creating dashboards and data-driven interfaces
-- Improving performance, maintainability, and user experience
-- Writing clean, tested, and scalable front-end code
+</div>
 
-<p align="center">
+<br />
+
+### 🧩 GitHub Highlights
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>🚀 Front-End Development</h4>
+        <sub>
+          Modern, responsive, and scalable interfaces
+        </sub>
+      </td>
+      <td align="center" width="50%">
+        <h4>🛠️ Engineering Practices</h4>
+        <sub>
+          Reusable components, testing, and clean code
+        </sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h4>📊 Application Types</h4>
+        <sub>
+          E-commerce, dashboards, and web applications
+        </sub>
+      </td>
+      <td align="center" width="50%">
+        <h4>🔒 Professional Work</h4>
+        <sub>
+          Most professional projects are private
+        </sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br />
+
+<div align="center">
+
   <a href="https://github.com/mryamabsi">
-    <strong>Visit my GitHub profile →</strong>
+    <strong>Explore my repositories →</strong>
   </a>
-</p>
+
+</div>
 
 ---
 
