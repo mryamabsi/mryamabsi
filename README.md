@@ -211,97 +211,29 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 
 ---
 
-## 📈 GitHub
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="165"
+    alt="Maryam's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Maryam's Top Languages"
+  />
+</p>
 
-  <a href="https://github.com/mryamabsi">
-    <strong>GitHub Profile</strong>
-  </a>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=mryamabsi&theme=tokyonight&hide_border=true"
+    alt="Maryam's GitHub Streak"
+  />
+</p>
 
-  <br />
-
-  <sub>
-    Front-End Developer · React · Next.js · TypeScript
-  </sub>
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <strong>💻 Development</strong>
-        <br />
-        <sub>Front-End Focused</sub>
-      </td>
-      <td align="center" width="33%">
-        <strong>⚛️ Core Stack</strong>
-        <br />
-        <sub>React · Next.js</sub>
-      </td>
-      <td align="center" width="33%">
-        <strong>🟦 Language</strong>
-        <br />
-        <sub>TypeScript</sub>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br />
-
-### 🧩 GitHub Highlights
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>🚀 Front-End Development</h4>
-        <sub>
-          Modern, responsive, and scalable interfaces
-        </sub>
-      </td>
-      <td align="center" width="50%">
-        <h4>🛠️ Engineering Practices</h4>
-        <sub>
-          Reusable components, testing, and clean code
-        </sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h4>📊 Application Types</h4>
-        <sub>
-          E-commerce, dashboards, and web applications
-        </sub>
-      </td>
-      <td align="center" width="50%">
-        <h4>🔒 Professional Work</h4>
-        <sub>
-          Most professional projects are private
-        </sub>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <a href="https://github.com/mryamabsi">
-    <strong>Explore my repositories →</strong>
-  </a>
-
-</div>
-
+---
 ---
 
 ## 🎯 Currently
