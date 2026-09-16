@@ -207,41 +207,52 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 
 ---
 
+---
+
 ## 📈 GitHub
 
 <div align="center">
 
-  <a href="https://github.com/mryamabsi">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-      height="180"
-      alt="Maryam's GitHub Stats"
-    />
-  </a>
+  <h3>GitHub Profile</h3>
 
-  <a href="https://github.com/mryamabsi">
-    <img
-      src="https://streak-stats.demolab.com?user=mryamabsi&theme=github-dark-blue&hide_border=true"
-      height="180"
-      alt="Maryam's GitHub Streak"
-    />
-  </a>
+  <p>
+    <a href="https://github.com/mryamabsi">
+      <strong>@mryamabsi</strong>
+    </a>
+  </p>
+
+  <p>
+    Front-End Developer focused on building modern and scalable web experiences.
+  </p>
 
 </div>
 
-<br />
+### 🔎 GitHub Highlights
 
-<div align="center">
+| Category | Details |
+|----------|---------|
+| 💻 Focus | Front-End Development |
+| ⚛️ Main Stack | React · Next.js · TypeScript |
+| 🎨 UI | Tailwind CSS · Sass · Bootstrap |
+| 🧩 Architecture | Reusable Components · Scalable UI |
+| 🧪 Quality | Vitest · Playwright · ESLint |
+| 📊 Projects | E-commerce · Dashboards · Web Applications |
+| 🔒 Work | Professional projects are private |
 
+### 🧭 What I Work On
+
+- Building responsive and accessible user interfaces
+- Developing reusable React and Next.js components
+- Integrating REST APIs and managing application state
+- Creating dashboards and data-driven interfaces
+- Improving performance, maintainability, and user experience
+- Writing clean, tested, and scalable front-end code
+
+<p align="center">
   <a href="https://github.com/mryamabsi">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=mryamabsi&theme=github-compact&hide_border=true&area=true&radius=8"
-      width="95%"
-      alt="Maryam's GitHub Activity Graph"
-    />
+    <strong>Visit my GitHub profile →</strong>
   </a>
-
-</div>
+</p>
 
 ---
 
