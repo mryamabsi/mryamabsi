@@ -228,16 +228,8 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 🧪 Testing & Code Quality
 ```
 
----
 
 
 
-<div align="center">
 
-### Building interfaces that are simple, scalable, and enjoyable to use.
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=mryamabsi&style=flat-square&color=blue" alt="Profile views" />
-
-</div>
