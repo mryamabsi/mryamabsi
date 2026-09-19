@@ -230,25 +230,7 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 
 ---
 
-## 🤝 Let's Connect
 
-<div align="center">
-
-<p>
-  <a href="https://linkedin.com/in/mryamabsi">
-    <img src="https://img.shields.io/badge/LinkedIn-mryamabsi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/mryamabsi">
-    <img src="https://img.shields.io/badge/Instagram-mryamabsi-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://t.me/didb2i">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
----
 
 <div align="center">
 
