@@ -26,21 +26,11 @@ Building clean, responsive, and scalable web experiences.
 
 ## 👩🏻‍💻 About Me
 
-I'm a **Front-End Developer at Nova**, focused on building modern web applications with a strong emphasis on **clean UI, reusable components, scalability, and user experience**.
+I'm a **Front-End Developer at Nova** focused on building modern, scalable web applications with clean architecture and thoughtful user experiences.
 
-My day-to-day work revolves around:
+I enjoy turning designs into polished interfaces, building reusable components, working with APIs, and creating reliable products that are easy to maintain.
 
-* ⚛️ React & Next.js
-* 🟦 TypeScript
-* 🎨 Modern UI systems & Tailwind CSS
-* 🧩 Reusable component architecture
-* 🔄 REST API integration
-* 📊 Data-driven dashboards
-* 📝 Form handling & validation
-* ⚡ Performance & accessibility
-* 🧪 Testing & code quality
-
-> 🔒 Most of my professional projects are private, so their source code isn't publicly available.
+> 🔒 Most of my professional work is private.
 
 ---
 
@@ -61,36 +51,23 @@ My day-to-day work revolves around:
 <p>
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" height="25" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" height="25" alt="Swiper" />
+  <img src="https://img.shields.io/badge/Tiptap-000000?style=flat-square&logo=tiptap&logoColor=white" height="25" alt="Tiptap" />
+  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" alt="React Icons" />
 </p>
 
-### State & Data Management
+### State, Data & Forms
 
 <p>
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" height="25" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="25" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" height="25" alt="Zustand" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" height="25" alt="Axios" />
-</p>
-
-### Forms & Validation
-
-<p>
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" height="25" alt="React Hook Form" />
   <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" height="25" alt="Zod" />
   <img src="https://img.shields.io/badge/Yup-4B32C3?style=flat-square&logo=yup&logoColor=white" height="25" alt="Yup" />
 </p>
 
-### UI Components & Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/Tiptap-000000?style=flat-square&logo=tiptap&logoColor=white" height="25" alt="Tiptap" />
-  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white" height="25" alt="Recharts" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" height="25" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Motion-000000?style=flat-square&logo=framer&logoColor=white" height="25" alt="Motion" />
-  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" alt="React Icons" />
-</p>
-
-### Testing & Code Quality
+### Testing & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" height="25" alt="Vitest" />
@@ -99,16 +76,8 @@ My day-to-day work revolves around:
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" height="25" alt="Prettier" />
 </p>
 
-### Tools & Workflow
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="45" alt="Development Tools" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" height="25" alt="Swagger" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" height="25" alt="OpenAPI" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" height="25" alt="REST API" />
 </p>
 
 ---
@@ -119,18 +88,14 @@ My day-to-day work revolves around:
 
 **Jul 2025 — Present · Shiraz, Iran**
 
-* Build responsive and scalable applications using **React, Next.js & TypeScript**
-* Develop reusable components and maintain consistent UI patterns
-* Transform Figma designs into production-ready interfaces
-* Integrate REST APIs and manage asynchronous data
-* Build complex forms with **React Hook Form, Zod & Yup**
-* Manage application state with **Zustand & TanStack Query**
-* Develop dashboards, e-commerce interfaces and user-focused applications
-* Build data visualizations with **Recharts**
-* Document reusable components with **Storybook**
-* Write automated tests using **Vitest & Playwright**
-* Improve performance, accessibility, responsiveness and overall UX
-* Collaborate with designers and developers to deliver maintainable products
+* Building responsive web applications with **React, Next.js & TypeScript**
+* Developing reusable and scalable UI components
+* Translating Figma designs into production-ready interfaces
+* Integrating REST APIs and managing application data
+* Building forms, dashboards and data-driven interfaces
+* Writing automated tests with **Vitest & Playwright**
+* Improving performance, accessibility and overall UX
+* Collaborating with designers and developers
 
 ---
 
@@ -144,14 +109,11 @@ My day-to-day work revolves around:
 
 ### 🪙 Gold Store
 
-**Private · E-commerce**
+**E-commerce**
 
-Modern e-commerce interface focused on reusable UI, responsive layouts and API-driven product experiences.
+Modern storefront with responsive UI, reusable components and API-driven product experiences.
 
-**Stack**
-
-`Next.js` `TypeScript` `Tailwind`
-`TanStack Query` `Zustand`
+`Next.js` `TypeScript` `Tailwind` `TanStack Query`
 
 </td>
 
@@ -159,14 +121,11 @@ Modern e-commerce interface focused on reusable UI, responsive layouts and API-d
 
 ### 👗 Clothes Store
 
-**Private · E-commerce**
+**E-commerce**
 
-Responsive shopping interface with reusable product components, forms and modern UI patterns.
+Responsive shopping experience with reusable product components and modern forms.
 
-**Stack**
-
-`Next.js` `TypeScript` `Tailwind`
-`React Hook Form` `Zod`
+`Next.js` `TypeScript` `Tailwind` `React Hook Form`
 
 </td>
 </tr>
@@ -176,14 +135,11 @@ Responsive shopping interface with reusable product components, forms and modern
 
 ### 📊 Dashboard
 
-**Private · Admin Dashboard**
+**Admin Dashboard**
 
-Data-driven dashboard with reusable components, forms, charts and responsive layouts.
+Data-driven dashboard with reusable components, charts and responsive layouts.
 
-**Stack**
-
-`Next.js` `TypeScript` `Recharts`
-`Zustand` `TanStack Query`
+`Next.js` `TypeScript` `Recharts` `Zustand`
 
 </td>
 
@@ -191,14 +147,11 @@ Data-driven dashboard with reusable components, forms, charts and responsive lay
 
 ### 🛍️ Store
 
-**Private · E-commerce**
+**E-commerce**
 
-Scalable storefront focused on reusable components, responsive UI and API integration.
+Scalable storefront focused on reusable UI and API integration.
 
-**Stack**
-
-`Next.js` `TypeScript` `Tailwind`
-`Axios` `TanStack Query`
+`Next.js` `TypeScript` `Tailwind` `Axios`
 
 </td>
 </tr>
@@ -219,17 +172,16 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 
 ## 🎯 Currently
 
-```text
-⚛️ React & Next.js
-🟦 TypeScript
-🧩 Component Architecture
-🎨 Modern UI Development
-⚡ Performance & Accessibility
-🧪 Testing & Code Quality
-```
+`React` · `Next.js` · `TypeScript` · `UI Architecture` · `Performance` · `Testing`
 
+---
 
+<div align="center">
 
+### Building interfaces that are simple, scalable, and enjoyable to use.
 
+<br>
 
+<img src="https://komarev.com/ghpvc/?username=mryamabsi&style=flat-square&color=blue" alt="Profile views" />
 
+</div>
