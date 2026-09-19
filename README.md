@@ -180,8 +180,6 @@ Scalable storefront focused on reusable UI and API integration.
 
 ### Building interfaces that are simple, scalable, and enjoyable to use.
 
-<br>
 
-<img src="https://komarev.com/ghpvc/?username=mryamabsi&style=flat-square&color=blue" alt="Profile views" />
 
 </div>
