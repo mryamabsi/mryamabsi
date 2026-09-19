@@ -66,7 +66,7 @@ My day-to-day work revolves around:
 ### State & Data Management
 
 <p>
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" height="25" alt="Redux Toolkit" /> 
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" height="25" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="25" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" height="25" alt="Zustand" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" height="25" alt="Axios" />
@@ -110,7 +110,9 @@ My day-to-day work revolves around:
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" height="25" alt="OpenAPI" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" height="25" alt="REST API" />
 </p>
-  
+
+---
+
 ## 💼 Experience
 
 ### Front-End Developer · Nova
@@ -204,11 +206,7 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 
 ---
 
-
-
 ## 📈 GitHub Stats
-
-
 
 <p align="center">
   <img
@@ -218,7 +216,6 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 </p>
 
 ---
-
 
 ## 🎯 Currently
 
@@ -237,17 +234,17 @@ Scalable storefront focused on reusable components, responsive UI and API integr
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mryamabsi">
-  <img src="https://img.shields.io/badge/LinkedIn-mryamabsi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/mryamabsi">
-  <img src="https://img.shields.io/badge/Instagram-mryamabsi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://t.me/didb2i">
-  <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+<p>
+  <a href="https://linkedin.com/in/mryamabsi">
+    <img src="https://img.shields.io/badge/LinkedIn-mryamabsi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mryamabsi">
+    <img src="https://img.shields.io/badge/Instagram-mryamabsi-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/didb2i">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
