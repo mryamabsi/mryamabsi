@@ -9,19 +9,20 @@
 Building clean, responsive, and scalable web experiences.
 
 <p>
-  <a href="https://github.com/mryamabsi">
+  <a href="https://github.com/mryamabsi" style="text-decoration:none; border:none;">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mryamabsi">
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/mryamabsi" style="text-decoration:none; border:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/mryamabsi">
+  </a>&nbsp;
+  <a href="https://instagram.com/mryamabsi" style="text-decoration:none; border:none;">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://t.me/didb2i">
+  </a>&nbsp;
+  <a href="https://t.me/didb2i" style="text-decoration:none; border:none;">
     <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
 </p>
+
 
 
 </div>
