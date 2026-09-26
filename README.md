@@ -9,6 +9,9 @@
 Building clean, responsive, and scalable web experiences.
 
 <p>
+  <a href="https://github.com/mryamabsi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/mryamabsi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -19,6 +22,7 @@ Building clean, responsive, and scalable web experiences.
     <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
 </p>
+
 
 </div>
 
