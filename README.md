@@ -15,6 +15,7 @@ Building clean, responsive, and scalable web experiences.
 <a href="https://t.me/didb2i"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
 </p>
 
+
 </div>
 
 ---
@@ -25,7 +26,7 @@ I'm a **Front-End Developer at Nova** focused on building modern, scalable web a
 
 I enjoy turning designs into polished interfaces, building reusable components, working with APIs, and creating reliable products that are easy to maintain.
 
-🔒 Most of my professional work is private.
+> 🔒 Most of my professional work is private.
 
 ---
 
@@ -83,19 +84,20 @@ I enjoy turning designs into polished interfaces, building reusable components, 
 
 **Jul 2025 — Present · Shiraz, Iran**
 
-Building responsive web applications with **React, Next.js & TypeScript**
-Developing reusable and scalable UI components
-Translating Figma designs into production-ready interfaces
-Integrating REST APIs and managing application data
-Building forms, dashboards and data-driven interfaces
-Writing automated tests with **Vitest & Playwright**
-Improving performance, accessibility and overall UX
-Collaborating with designers and developers
+* Building responsive web applications with **React, Next.js & TypeScript**
+* Developing reusable and scalable UI components
+* Translating Figma designs into production-ready interfaces
+* Integrating REST APIs and managing application data
+* Building forms, dashboards and data-driven interfaces
+* Writing automated tests with **Vitest & Playwright**
+* Improving performance, accessibility and overall UX
+* Collaborating with designers and developers
+
 ---
 
 ## 🚀 Featured Projects
 
-🔐 Professional projects are private.
+> 🔐 Professional projects are private.
 
 <table>
 <tr>
@@ -107,7 +109,7 @@ Collaborating with designers and developers
 
 Modern storefront with responsive UI, reusable components and API-driven product experiences.
 
-Next.js TypeScript Tailwind TanStack Query
+`Next.js` `TypeScript` `Tailwind` `TanStack Query`
 
 </td>
 
@@ -119,7 +121,7 @@ Next.js TypeScript Tailwind TanStack Query
 
 Responsive shopping experience with reusable product components and modern forms.
 
-Next.js TypeScript Tailwind React Hook Form
+`Next.js` `TypeScript` `Tailwind` `React Hook Form`
 
 </td>
 </tr>
@@ -133,7 +135,7 @@ Next.js TypeScript Tailwind React Hook Form
 
 Data-driven dashboard with reusable components, charts and responsive layouts.
 
-Next.js TypeScript Recharts Zustand
+`Next.js` `TypeScript` `Recharts` `Zustand`
 
 </td>
 
@@ -145,13 +147,15 @@ Next.js TypeScript Recharts Zustand
 
 Scalable storefront focused on reusable UI and API integration.
 
-Next.js TypeScript Tailwind Axios
+`Next.js` `TypeScript` `Tailwind` `Axios`
 
 </td>
 </tr>
 </table>
 
 ---
+
+
 
 ---
 
@@ -181,14 +185,18 @@ Next.js TypeScript Tailwind Axios
   />
 </p>
 
+
+
 ## 🎯 Currently
 
-React · Next.js · TypeScript · UI Architecture · Performance · Testing
+`React` · `Next.js` · `TypeScript` · `UI Architecture` · `Performance` · `Testing`
 
 ---
 
 <div align="center">
 
 ### Building interfaces that are simple, scalable, and enjoyable to use.
+
+
 
 </div>
