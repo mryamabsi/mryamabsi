@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hey, I'm Maryam 👋
 
 ### Front-End Developer
@@ -13,6 +15,8 @@ Building clean, responsive, and scalable web experiences.
 <a href="https://t.me/didb2i"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
 </p>
 
+</div>
+
 ---
 
 ## 👩🏻‍💻 About Me
@@ -21,18 +25,55 @@ I'm a **Front-End Developer at Nova** focused on building modern, scalable web a
 
 I enjoy turning designs into polished interfaces, building reusable components, working with APIs, and creating reliable products that are easy to maintain.
 
-> 🔒 Most of my professional work is private.
+🔒 Most of my professional work is private.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| | |
-|:--|:--|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs" height="40" alt="Frontend Technologies" /> |
-| **UI & Styling** | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,storybook" height="40" alt="UI and Styling Technologies" /><br /><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" alt="Swiper" /> <img src="https://img.shields.io/badge/Tiptap-000000?style=flat-square&logo=tiptap&logoColor=white" alt="Tiptap" /> <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Icons" /> |
-| **State, Data & Forms** | <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" /> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" /> <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" /> <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" alt="Zod" /> <img src="https://img.shields.io/badge/Yup-4B32C3?style=flat-square&logo=yup&logoColor=white" alt="Yup" /> |
-| **Testing & Tools** | <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" /> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier" /><br /><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="40" alt="Development Tools" /> |
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs" height="45" alt="Frontend Technologies" />
+</p>
+
+### UI & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,storybook" height="45" alt="UI and Styling Technologies" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" height="25" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" height="25" alt="Swiper" />
+  <img src="https://img.shields.io/badge/Tiptap-000000?style=flat-square&logo=tiptap&logoColor=white" height="25" alt="Tiptap" />
+  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" alt="React Icons" />
+</p>
+
+### State, Data & Forms
+
+<p>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" height="25" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="25" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" height="25" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" height="25" alt="Axios" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" height="25" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" height="25" alt="Zod" />
+  <img src="https://img.shields.io/badge/Yup-4B32C3?style=flat-square&logo=yup&logoColor=white" height="25" alt="Yup" />
+</p>
+
+### Testing & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" height="25" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="25" alt="Playwright" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" height="25" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" height="25" alt="Prettier" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="45" alt="Development Tools" />
+</p>
 
 ---
 
@@ -42,24 +83,23 @@ I enjoy turning designs into polished interfaces, building reusable components, 
 
 **Jul 2025 — Present · Shiraz, Iran**
 
-* Building responsive web applications with **React, Next.js & TypeScript**
-* Developing reusable and scalable UI components
-* Translating Figma designs into production-ready interfaces
-* Integrating REST APIs and managing application data
-* Building forms, dashboards and data-driven interfaces
-* Writing automated tests with **Vitest & Playwright**
-* Improving performance, accessibility and overall UX
-* Collaborating with designers and developers
-
+Building responsive web applications with **React, Next.js & TypeScript**
+Developing reusable and scalable UI components
+Translating Figma designs into production-ready interfaces
+Integrating REST APIs and managing application data
+Building forms, dashboards and data-driven interfaces
+Writing automated tests with **Vitest & Playwright**
+Improving performance, accessibility and overall UX
+Collaborating with designers and developers
 ---
 
 ## 🚀 Featured Projects
 
-> 🔐 Professional projects are private.
+🔐 Professional projects are private.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🪙 Gold Store
 
@@ -67,11 +107,11 @@ I enjoy turning designs into polished interfaces, building reusable components, 
 
 Modern storefront with responsive UI, reusable components and API-driven product experiences.
 
-`Next.js` `TypeScript` `Tailwind` `TanStack Query`
+Next.js TypeScript Tailwind TanStack Query
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 👗 Clothes Store
 
@@ -79,13 +119,13 @@ Modern storefront with responsive UI, reusable components and API-driven product
 
 Responsive shopping experience with reusable product components and modern forms.
 
-`Next.js` `TypeScript` `Tailwind` `React Hook Form`
+Next.js TypeScript Tailwind React Hook Form
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 📊 Dashboard
 
@@ -93,11 +133,11 @@ Responsive shopping experience with reusable product components and modern forms
 
 Data-driven dashboard with reusable components, charts and responsive layouts.
 
-`Next.js` `TypeScript` `Recharts` `Zustand`
+Next.js TypeScript Recharts Zustand
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🛍️ Store
 
@@ -105,7 +145,7 @@ Data-driven dashboard with reusable components, charts and responsive layouts.
 
 Scalable storefront focused on reusable UI and API integration.
 
-`Next.js` `TypeScript` `Tailwind` `Axios`
+Next.js TypeScript Tailwind Axios
 
 </td>
 </tr>
@@ -113,19 +153,42 @@ Scalable storefront focused on reusable UI and API integration.
 
 ---
 
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=mryamabsi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+---
 
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=400"
+    alt="GitHub Stats"
+    width="400"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=tokyonight&hide_border=true&card_width=400"
+    alt="Top Languages"
+    width="400"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=mryamabsi&theme=tokyonight&hide_border=true&card_width=810"
+    alt="GitHub Streak"
+    width="810"
+  />
+</p>
 
 ## 🎯 Currently
 
-`React` · `Next.js` · `TypeScript` · `UI Architecture` · `Performance` · `Testing`
+React · Next.js · TypeScript · UI Architecture · Performance · Testing
 
 ---
 
+<div align="center">
+
 ### Building interfaces that are simple, scalable, and enjoyable to use.
+
+</div>
