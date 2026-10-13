@@ -163,54 +163,6 @@ Scalable storefront focused on reusable UI and API integration.
     alt="Maryam's GitHub Streak"
   />
 </p>
----
-
-## 🧠 Technical Strengths
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Component Architecture
-
-- Reusable and maintainable UI components
-- Scalable frontend architecture
-- Clean and organized code
-
-</td>
-<td width="50%" valign="top">
-
-### 🔄 Data & State Management
-
-- REST API integration
-- Server-state caching with TanStack Query
-- Client-state management with Zustand & Redux Toolkit
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 UI Engineering
-
-- Responsive and accessible interfaces
-- Pixel-perfect Figma implementation
-- Form validation and complex UI flows
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Quality & Performance
-
-- Component and end-to-end testing
-- Performance optimization
-- Consistent code quality with ESLint & Prettier
-
-</td>
-</tr>
-</table>
----
-
 ## 🎯 Currently
 
 `React` · `Next.js` · `TypeScript` · `UI Architecture` · `Performance` · `Testing`
