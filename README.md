@@ -160,40 +160,30 @@ Scalable storefront focused on reusable UI and API integration.
 ---
 
 ---
-
 ## 📈 GitHub Stats
 
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-          alt="GitHub Stats"
-          height="170"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=tokyonight&hide_border=true"
-          alt="Top Languages"
-          height="170"
-        />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=mryamabsi&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    width="650"
+    src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=400"
+    alt="GitHub Stats"
+    width="400"
     height="170"
   />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=tokyonight&hide_border=true&card_width=400"
+    alt="Top Languages"
+    width="400"
+    height="170"
+  />
+</p>
 
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=mryamabsi&theme=tokyonight&hide_border=true&card_width=810"
+    alt="GitHub Streak"
+    width="810"
+  />
+</p>
 
 
 
