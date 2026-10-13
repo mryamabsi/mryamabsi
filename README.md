@@ -155,6 +155,7 @@ Scalable storefront focused on reusable UI and API integration.
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -162,7 +163,10 @@ Scalable storefront focused on reusable UI and API integration.
     src="https://streak-stats.demolab.com?user=mryamabsi&theme=tokyonight&hide_border=true"
     alt="Maryam's GitHub Streak"
   />
+  <br />
+  <sub>Contributions · Repositories · Activity</sub>
 </p>
+
 ## 🎯 Currently
 
 `React` · `Next.js` · `TypeScript` · `UI Architecture` · `Performance` · `Testing`
