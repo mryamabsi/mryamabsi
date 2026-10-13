@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=header" width="100%" alt="" />
-
 # Hey, I'm Maryam 👋
 
 ### Front-End Developer
@@ -17,11 +13,7 @@ Building clean, responsive, and scalable web experiences.
 <a href="https://t.me/didb2i"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
 </p>
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 👩🏻‍💻 About Me
 
@@ -31,71 +23,24 @@ I enjoy turning designs into polished interfaces, building reusable components, 
 
 > 🔒 Most of my professional work is private.
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs" height="40" alt="Frontend Technologies" />
-</p>
-
-### UI & Styling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,storybook" height="40" alt="UI and Styling Technologies" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" height="28" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" height="28" alt="Swiper" />
-  <img src="https://img.shields.io/badge/Tiptap-000000?style=flat-square&logo=tiptap&logoColor=white" height="28" alt="Tiptap" />
-  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=flat-square&logo=react&logoColor=black" height="28" alt="React Icons" />
-</p>
-
-### State, Data & Forms
-
-<p>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" height="28" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="28" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" height="28" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" height="28" alt="Axios" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" height="28" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" height="28" alt="Zod" />
-  <img src="https://img.shields.io/badge/Yup-4B32C3?style=flat-square&logo=yup&logoColor=white" height="28" alt="Yup" />
-</p>
-
-### Testing & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" height="28" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="28" alt="Playwright" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" height="28" alt="ESLint" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" height="28" alt="Prettier" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="40" alt="Development Tools" />
-</p>
-
-</div>
+| | |
+|:--|:--|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs" height="40" alt="Frontend Technologies" /> |
+| **UI & Styling** | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,storybook" height="40" alt="UI and Styling Technologies" /><br /><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" alt="Swiper" /> <img src="https://img.shields.io/badge/Tiptap-000000?style=flat-square&logo=tiptap&logoColor=white" alt="Tiptap" /> <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Icons" /> |
+| **State, Data & Forms** | <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" /> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" /> <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" /> <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" alt="Zod" /> <img src="https://img.shields.io/badge/Yup-4B32C3?style=flat-square&logo=yup&logoColor=white" alt="Yup" /> |
+| **Testing & Tools** | <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" /> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier" /><br /><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="40" alt="Development Tools" /> |
 
 ---
-
-<div align="center">
 
 ## 💼 Experience
 
 ### Front-End Developer · Nova
 
 **Jul 2025 — Present · Shiraz, Iran**
-
-</div>
 
 * Building responsive web applications with **React, Next.js & TypeScript**
 * Developing reusable and scalable UI components
@@ -108,17 +53,13 @@ I enjoy turning designs into polished interfaces, building reusable components, 
 
 ---
 
-<div align="center">
-
 ## 🚀 Featured Projects
 
 > 🔐 Professional projects are private.
 
-</div>
-
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 🪙 Gold Store
 
@@ -130,7 +71,7 @@ Modern storefront with responsive UI, reusable components and API-driven product
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 👗 Clothes Store
 
@@ -144,7 +85,7 @@ Responsive shopping experience with reusable product components and modern forms
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 📊 Dashboard
 
@@ -156,7 +97,7 @@ Data-driven dashboard with reusable components, charts and responsive layouts.
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 🛍️ Store
 
@@ -172,43 +113,19 @@ Scalable storefront focused on reusable UI and API integration.
 
 ---
 
-<div align="center">
-
 ## 📈 GitHub Stats
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    width="49%"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mryamabsi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryamabsi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 
-<p>
-  <img
-    src="https://streak-stats.demolab.com?user=mryamabsi&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    width="98%"
-  />
-</p>
-
-</div>
+<img src="https://streak-stats.demolab.com?user=mryamabsi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 
 ---
-
-<div align="center">
 
 ## 🎯 Currently
 
 `React` · `Next.js` · `TypeScript` · `UI Architecture` · `Performance` · `Testing`
 
+---
+
 ### Building interfaces that are simple, scalable, and enjoyable to use.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer&reversal=true" width="100%" alt="" />
-
-</div>
