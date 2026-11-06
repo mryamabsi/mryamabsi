@@ -156,10 +156,6 @@ Scalable storefront focused on reusable UI and API integration.
 ---
 
 
-
----
-
----
 ## 📈 GitHub Stats
 
 <p align="center">
